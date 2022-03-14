@@ -1,0 +1,170 @@
+{
+  "start": "Start!",
+  "@start": {
+    "description": "Start"
+  },
+  "selectChoices": "Select Choices",
+  "@selectChoices": {
+    "description": "select Choices"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "settings"
+  },
+  "doOrDont": "Do or Don't",
+  "@doOrDont": {
+    "description": "Do or Don't title"
+  },
+  "doo": "Do",
+  "@doo": {
+    "description": "Do"
+  },
+  "dont": "Don't",
+  "@dont": {
+    "description": "Don't"
+  },
+  "buyOrDont": "Buy or Don't",
+  "@buyOrDont": {
+    "description": "Buy or Don't title"
+  },
+  "buy": "Buy",
+  "@buy": {
+    "description": "Buy"
+  },
+  "dontBuy": "Don't",
+  "@dontBuy": {
+    "description": "Don't buy"
+  },
+  "rightOrLeft": "Right or Left",
+  "@rightOrLeft": {
+    "description": "Right or Left"
+  },
+  "right": "Right",
+  "@right": {
+    "description": "Right"
+  },
+  "left": "Left",
+  "@left": {
+    "description": "Left"
+  },
+  "seaOrMountain": "Sea or Mountain",
+  "@seaOrMountain": {
+    "description": "Sea or Mountain"
+  },
+  "sea": "Sea",
+  "@sea": {
+    "description": "Sea"
+  },
+  "mountain": "Mountain",
+  "@mountain": {
+    "description": "Mountain"
+  },
+  "summerOrWinter": "Summer or Winter",
+  "@summerOrWinter": {
+    "description": "Summer or Winter"
+  },
+  "summer": "Summer",
+  "@summer": {
+    "description": "Summer"
+  },
+  "winter": "Winter",
+  "@winter": {
+    "description": "Winter"
+  },
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit"
+  },
+  "done": "Done",
+  "@done": {
+    "description": "Done"
+  },
+  "addChoice": "Add Choice",
+  "@addChoice": {
+    "description": "Add Choice"
+  },
+  "title": "Title",
+  "@title": {
+    "description": "Title"
+  },
+  "choice1": "Choice1",
+  "@choice1": {
+    "description": "Choice1"
+  },
+  "choice2": "Choice2",
+  "@choice2": {
+    "description": "Choice2"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK"
+  },
+  "editChoice": "Edit Choice",
+  "@editChoice": {
+    "description": "Edit Choice"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "back"
+  },
+  "advertisementOFF": "Ads OFF",
+  "@advertisementOFF": {
+    "description": "Advertisement OFF"
+  },
+  "takeover": "Takeover",
+  "@takeover": {
+    "description": "takeover label"
+  },
+  "restore": "Restore",
+  "@restore": {
+    "description": "restore"
+  },
+  "disclaimer": "Disclaimer",
+  "@disclaimer": {
+    "description": "disclaimer"
+  },
+  "takeoverContents": "If you want to transfer your purchase history to a new model, please log in using the following method.",
+  "@takeoverContents": {
+    "description": "takeoverContents"
+  },
+  "takeoverComplete": "Takeover is complete!",
+  "@takeoverComplete": {
+    "description": "takeover Complete label"
+  },
+  "restoreContents": "Restore the Content. \nPlease log in using the method you logged in with the previous terminal.",
+  "@restoreContents": {
+    "description": "restore contents label"
+  },
+  "restoreComplete": "Your purchase will be restored within 5 minutes.",
+  "@restoreComplete": {
+    "description": "Restore Complete label"
+  },
+  "disclaimerContents": " By using this application, you are deemed to have agreed to this disclaimer.\n The download and use of this application shall be done at the user's own risk.\n We are not responsible for any damage (whether tangible or intangible) caused by using this application.\n Please use at your own risk.\n This app does not guarantee the accuracy, usefulness, up-to-dateness, appropriateness, etc. of all the information provided in this application to the user.\n Customers are responsible for the communication charges when using this application.\n The contents and information of this application are subject to change without notice.\n The contents of this policy are subject to change without notice.",
+  "@disclaimerContents": {
+    "description": "disclaimerContents label"
+  },
+  "reset": "Reset",
+  "@reset": {
+    "description": "reset"
+  },
+  "purchase": "Purchase",
+  "@purchase": {
+    "description": "purchase"
+  },
+  "storeLoading": "Store is Loading",
+  "@storeLoading": {
+    "description": "storeLoading"
+  },
+  "storeNotAvailable": "Store is not Available",
+  "@storeNotAvailable": {
+    "description": "storeNotAvailable"
+  },
+  "adsOFFContents": "Do you want to hide ads?\nPrice:",
+  "@adsOFFContents": {
+    "description": "adsOFFContents"
+  },
+  "quickDecide": "Quick decide",
+  "@quickDecide": {
+    "description": "quickDecide"
+  }
+}
